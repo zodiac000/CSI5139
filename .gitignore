@@ -1,5 +1,5 @@
 data/
 Weights/
 runs/
-
+__pycache__/
 
