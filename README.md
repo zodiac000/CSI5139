@@ -2,14 +2,14 @@
 
 This repository is an implementation of the paper "Multi-Scale Residual Network Image-Resolution Applied to Image Classification".
 
-#Prerequisites:
+## Prerequisites:
 * Python 3.6
 * PyTorch >= 0.4.0
 * numpy
 * matplotlib
 * tqdm
 
-#Dataset
+## Dataset
 - Training for MSRN:
 	DIV2K: Contains 800 high-resolution training images with the size of 2040 x 1356.
 
